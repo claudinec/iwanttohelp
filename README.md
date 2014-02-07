@@ -22,7 +22,7 @@ Who'll be involved?  What will it cost (if anything)?  What
 organisational support will be needed?
 
 These resources help to have these conversations.  The main thing is the
-[firstcontact.md]("first contact" questionaire), which allows the
+["first contact" questionaire](firstcontact.md), which allows the
 "helper" to understand what help is actually wanted or needed, and how
 they might be able to work with the helpee.
 
@@ -45,13 +45,13 @@ source, how open source ties into broader social movements or can solve
 social problems, best practices for open source software development,
 and the future of open data.
 
-My current main project is [http://growstuff.org/](Growstuff), an open
+My current main project is [Growstuff](http://growstuff.org/), an open
 source/open data project for food-growers, which has had 30+ developers
 in its first year, from a wide range of programming backgrounds and
 diverse demographics.  Check out our
-[http://github.com/Growstuff/growstuff](github repo) or our
-[http://wiki.growstuff.org](wiki) to see how the project operates.  You
-may also like to view [http://github.com/Skud](my github profile) to get
+[github repo](http://github.com/Growstuff/growstuff) or our
+[wiki](http://wiki.growstuff.org) to see how the project operates.  You
+may also like to view [my github profile](http://github.com/Skud) to get
 a sense of my experience and contributions.
 
 ## Critiquing/improving/contributing
