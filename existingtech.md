@@ -100,6 +100,32 @@ release/launch?
   * Class/library documentation
   * Style guide or coding standards
 
+## Open stuff
+
+* Is your code currently under an open source license? Which one?
+
+* Have you received any code contributions from outside your
+  organisation?
+
+* Do you know if anyone has forked or is re-using your code on another
+  project?
+
+* Do you have an API?
+
+* Do you know if anyone outside your org's built anything with it?
+
+* Is your data available under an open license? Which one?
+
+* Do you know if anyone outside your org's using it?
+
+* Is any of your content (eg. articles, videos) under an open license?
+  Which one?
+
+* Is anyone outside your org using it?
+
+* How do people send you feedback on your project? How much have you
+  received?
+
 ## Team communication
 
 * Do you have a discussion forum or mailing list for people working on the project?
