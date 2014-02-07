@@ -1,13 +1,11 @@
 iwanttohelp
 ===========
 
-I want to help you with your project, probably open sourcing it or
-building a volunteer developer community.  These resources will help us
-work together.
-
 ## What's this about?
 
-Sometimes I approach organisations and try to help them.  Sometimes
+As an open source software developer, sometimes I try to help
+organisations that are trying to build some sort of tech solution, or
+want to encourage openness or collaboration around tech.  Sometimes
 other people approach orgs I'm involved in and try to help us.  Everyone
 wants to help!
 
@@ -29,13 +27,39 @@ These resources help to have these conversations.
 
 The first thing to look at is the ["first contact"
 questionaire](firstcontact.md), which allows the "helper" to understand
-what help is actually wanted or needed, and how they might be able to
-work with the helpee.
+the organisation that's seeking help, get an idea of what help is
+actually wanted or needed, and how they might be able to work with the
+"helpee".
 
 If you find that a "helpee" organisation already has some technology in
 place, and wants help improving it, you might find the [existing tech
 questionaire](existingtech.md) useful to get an idea of their current
 status and what sort of help might be useful.
+
+## Who's this for?
+
+This is primarily intended for "helpers" who are engaged in open source
+software and other open tech (eg. open data, APIs, collaborative and
+social tech), and "helpee" organisations who know they want to use that
+kind of tech, or whose values (eg. working for social good) suggest that
+they should consider that kind of tech.
+
+For example, these questionaires could be used by techies who offer
+their services to non-profit orgs or social enterprises through hack
+days or volunteer programs.
+
+This is not particularly intended for commercial software development
+environments (eg. a mainstream IT consultant) though of course those
+folks are welcome to adapt this to their purposes, under the terms of
+the creative commons license.
+
+## How to use these questionaires
+
+I wouldn't recommend just emailing these to the "helpee" orgs as they
+may find them overwhelming or daunting, or not know how to answer some
+of the questions.  Instead, use these questionaires as a guide to
+"things to find out", and talk through them with your contact at the
+helpee org.  You might do this over a coffee or over the phone.
 
 ## Who am I?
 
@@ -73,3 +97,18 @@ help and advice from anyone who has experience in these things.
 You can make suggestions by raising a github issue ticket, or through a
 pull request.
 
+## License
+
+<a rel="license"
+href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US"><img
+alt="Creative Commons License" style="border-width:0"
+src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br
+/>This work by <a xmlns:cc="http://creativecommons.org/ns#"
+href="http://infotrope.net" property="cc:attributionName"
+rel="cc:attributionURL">Alex Bayley</a> is licensed under a <a
+rel="license"
+href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US">Creative
+Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based
+on a work at <a xmlns:dct="http://purl.org/dc/terms/"
+href="http://github.com/Skud/iwanttohelp"
+rel="dct:source">http://github.com/Skud/iwanttohelp</a>.
