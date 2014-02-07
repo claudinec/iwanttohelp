@@ -8,23 +8,34 @@ work together.
 ## What's this about?
 
 Sometimes I approach organisations and try to help them.  Sometimes
-other people approach orgs I'm involved in and try to help us.  Usually
-we're trying to help the orgs with one or more of:
+other people approach orgs I'm involved in and try to help us.  Everyone
+wants to help!
+
+Some of the things people want to help with include:
 
 * building or improving a tech platform or product
-* open sourcing their software
-* open licensing their data or other materials
-* building a volunteer community around their technology
+* open sourcing a piece software (either an existing one, or building it
+  open source from scratch)
+* open licensing their data or other materials (existing, or from
+  scratch)
+* building a volunteer community around their technology or content
 * changing the world in wonderful ways through techie magic
 
 That all sounds ace, but it's a bit vague.  Exactly how will this work?
 Who'll be involved?  What will it cost (if anything)?  What
 organisational support will be needed?
 
-These resources help to have these conversations.  The main thing is the
-["first contact" questionaire](firstcontact.md), which allows the
-"helper" to understand what help is actually wanted or needed, and how
-they might be able to work with the helpee.
+These resources help to have these conversations.
+
+The first thing to look at is the ["first contact"
+questionaire](firstcontact.md), which allows the "helper" to understand
+what help is actually wanted or needed, and how they might be able to
+work with the helpee.
+
+If you find that a "helpee" organisation already has some technology in
+place, and wants help improving it, you might find the [existing tech
+questionaire](existingtech.md) useful to get an idea of their current
+status and what sort of help might be useful.
 
 ## Who am I?
 
