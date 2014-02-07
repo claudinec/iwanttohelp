@@ -49,6 +49,50 @@ together.
 * Are you looking for volunteers, or do you have funds to hire people to
   help with this?  How much?
 
+## Open stuff
+
+* Do you currently use open licenses (eg. open source software licenses,
+  creative commons licenses) for anything you produce?
+
+* Are you building on top of any other platform? Do you know if it has
+  an open license? (Example: your project is based on something you
+  created earlier, for a different org.)
+
+* With regard to using open licenses, would you say you are:
+  * Keen to do it
+  * Interested but need more information
+  * Uncertain
+  * Not interested
+
+* If you're interested in open licensing your stuff, which of the
+  following interests you?
+  * open sourcing your software
+  * open data and APIs
+  * creative commons content
+
+* What (if anything) do you see as being the benefits of using open licenses?
+  * we can build on other people's work
+  * others can build on our work
+  * transparency/accountability
+  * collaborative process
+  * community engagement
+  * getting free contributions from volunteers
+  * access to events, services, resources available to open source projects
+  * reduced overall cost
+  * other:
+
+* What (if anything) concerns you about open licenses?
+  * don't know how to go about it
+  * other people might take our work and profit from it
+  * poor quality
+  * volunteers might not do what we want
+  * people might see our mistakes
+  * cost of ongoing support
+  * other:
+
+* Who is responsible for signing off on legal matters, specifically
+  intellectual property?  Do you have their agreement?
+
 ## How can we help?
 
 Which of the following would you like us to help with? (This is
