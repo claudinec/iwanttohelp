@@ -108,10 +108,13 @@ release/launch?
 * Do you have an online, real-time chatroom for people working on the project?
  (Provide URL or connection details if publicly accessible.)
 
+* Do you have a wiki or other collaborative documentation repository?  (Provide URL if
+  publicly accessible.)
+
 * Do you have regular meetings face to face or by phone/voice/video
   chat?  How often?
 
-## What sort of help do you need?
+## How can we help you?
 
 * High level architecture and strategy
 * Choice of technology platforms and tools
