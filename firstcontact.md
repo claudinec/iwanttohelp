@@ -49,6 +49,26 @@ together.
 * Are you looking for volunteers, or do you have funds to hire people to
   help with this?  How much?
 
+## Community stuff
+
+* Do you have an established community around your project?  How many
+  people?
+
+* Do you communicate regularly with your community, eg. via social
+  media, email newsletter, etc?
+
+* Have you taken your project/idea to any community events, such as hack
+  days or meetups, and talked to people about it there?
+
+* Have you organised any events of your own, for your community?
+
+* Do you currenty have any volunteers working on your project?  How many
+  and what do they do?
+
+* How do you currently recruit volunteers?
+
+* How do you manage volunteers' work?
+
 ## Open stuff
 
 * Do you currently use open licenses (eg. open source software licenses,
