@@ -12,6 +12,8 @@ together.
 
 * Are you (circle one): for-profit, non-profit, hybrid/social enterprise, government
 
+* Where are you based? (City/town)
+
 * Point of contact (name/email/phone):
 
 ## Your idea or project
