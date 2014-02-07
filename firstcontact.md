@@ -31,11 +31,12 @@ together.
 * Who is in charge?  Name, title, organisation.
 
 * Who's currently involved in implementing the project?  For each one, please tell us:
-** Name:
-** Role:
-** Expertise:
-** Availability (eg. 1 day/week):
-** Available until:
+
+  * Name:
+  * Role:
+  * Expertise:
+  * Availability (eg. 1 day/week):
+  * Available until:
 
 ## Money stuff
 
