@@ -12,7 +12,7 @@ wants to help!
 Some of the things people want to help with include:
 
 * building or improving a tech platform or product
-* open sourcing a piece software (either an existing one, or building it
+* open sourcing a piece of software (either an existing one, or building it
   open source from scratch)
 * open licensing their data or other materials (existing, or from
   scratch)
@@ -55,7 +55,7 @@ the creative commons license.
 
 ## How to use these questionaires
 
-I wouldn't recommend just emailing these to the "helpee" orgs as they
+I wouldn't recommend just emailing these questions to a "helpee" org as they
 may find them overwhelming or daunting, or not know how to answer some
 of the questions.  Instead, use these questionaires as a guide to
 "things to find out", and talk through them with your contact at the
