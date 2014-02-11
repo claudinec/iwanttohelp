@@ -14,7 +14,7 @@ together.
 
 * Where are you based? (City/town)
 
-* Point of contact (name/email/phone):
+* Point of contact (name/email/phone/role in organisation):
 
 ## Your idea or project
 
@@ -62,7 +62,7 @@ together.
 
 * Have you organised any events of your own, for your community?
 
-* Do you currenty have any volunteers working on your project?  How many
+* Do you currently have any volunteers working on your project?  How many
   and what do they do?
 
 * How do you currently recruit volunteers?
@@ -122,11 +122,12 @@ for.)
 * Coming up with a technology solution (ideas, research, high-level design)
 * Managing the project: setting priorities, ensuring deliverables, etc
 * Building our technology -- hands on coding
+* Training us in our existing technology
 * User research and user experience design
 * Branding or graphic design
 * Writing: documentation, web copy, etc
 * Multimedia (eg. videos, photography)
-* Social media and online PR
+* Social media, email newsletters, and online PR
 * Open sourcing your software
 * Open licensing data or building an open API
 * Open licensing content such as images or video
